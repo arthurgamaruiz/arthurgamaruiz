@@ -94,7 +94,7 @@ My academic journey includes **research projects, robotics teams and applied pro
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arthurgamaruiz/arthurgamaruiz/.github/workflows/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/arthurgamaruiz/arthurgamaruiz/.github/workflows/snake.yml" alt="snake animation"/>
 </p>
 
 ---
