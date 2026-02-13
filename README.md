@@ -2,7 +2,7 @@
 <h1 align="center">Arthur Ruiz</h1>
 
 <p align="center">
-  <b>Computer Engineering / Computer Science Student | Technology & Data Enthusiast</b> <br>
+  <b>Computer Engineering | Technology & Data Enthusiast</b> <br>
   <i>Building solutions with code, data and intelligent systems</i>
 </p>
 
