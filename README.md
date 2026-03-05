@@ -71,12 +71,6 @@ My academic journey includes **research projects, robotics teams and applied pro
 - 🤖 ML models for classification and prediction  
 - 🧠 Practical applications of supervised and unsupervised learning  
 
-### 🔐 **Cybersecurity & Systems**  
-- 🔍 Studies on secure systems and basic vulnerability analysis  
-- 🧩 Projects focused on logic, algorithms and robustness  
-
-> 📌 Repositories showcase **academic learning, experiments and applied projects**.
-
 ---
 
 ## 📈 GitHub Analytics  
