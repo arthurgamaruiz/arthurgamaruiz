@@ -53,12 +53,6 @@ My academic journey includes **research projects, robotics teams and applied pro
   <img src="https://img.shields.io/badge/Algorithms-333333?style=for-the-badge&logo=thealgorithms&logoColor=white" /> 
 </p>  
 
-#### Security & Systems  
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Cybersecurity-2F4F4F?style=for-the-badge&logo=securityscorecard&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-</p>  
-
 ---
 
 ## 📂 Featured Projects  
