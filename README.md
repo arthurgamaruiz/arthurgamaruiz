@@ -70,15 +70,25 @@ My academic journey includes **research projects, robotics teams and applied pro
 
 ---
 
-## 📈 GitHub Analytics  
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurruiz&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurruiz&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+  <!-- Card de Estatísticas Principal -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=arthurruiz&show_icons=true&theme=dracula&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=1a1b27&ring_color=00f5ff" 
+    height="210" 
+    alt="Arthur Ruiz GitHub Stats" 
+  />
+
+  <!-- Card de Linguagens Mais Usadas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurruiz&layout=compact&theme=dracula&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=1a1b27" 
+    height="170" 
+    alt="Arthur Ruiz Most Used Languages" 
+  />
+
+</div>
 
 ---
 
@@ -96,7 +106,7 @@ My academic journey includes **research projects, robotics teams and applied pro
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:arthurgamaruiz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
