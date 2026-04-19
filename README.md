@@ -76,14 +76,14 @@ My academic journey includes **research projects, robotics teams and applied pro
 
   <!-- Card de Estatísticas Principal -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=arthurruiz&show_icons=true&theme=dracula&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=1a1b27&ring_color=00f5ff" 
+    src="https://github-readme-stats.vercel.app/api?username=arthurruiz&show_icons=true&theme=dracula&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=1a1b27&ring_color=00f5ff&cache_seconds=0" 
     height="210" 
     alt="Arthur Ruiz GitHub Stats" 
   />
 
   <!-- Card de Linguagens Mais Usadas -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurruiz&layout=compact&theme=dracula&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=1a1b27" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurruiz&layout=compact&theme=dracula&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=1a1b27&cache_seconds=0" 
     height="170" 
     alt="Arthur Ruiz Most Used Languages" 
   />
