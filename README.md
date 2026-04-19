@@ -106,9 +106,9 @@ My academic journey includes **research projects, robotics teams and applied pro
   <a href="https://www.linkedin.com/in/arthur-gama-ruiz-58825a2a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:arthurgamaruiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:arthurgamaruiz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
+</a>
 </p>
 
 ---
