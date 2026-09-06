@@ -39,14 +39,14 @@ My academic journey includes **research projects, robotics teams and applied pro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" /> 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>   
 
 #### Data Science & Machine Learning  
 <p align="left"> 
   <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
 </p>  
 
 #### Tools & Foundations  
@@ -55,6 +55,9 @@ My academic journey includes **research projects, robotics teams and applied pro
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=firebase&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Algorithms-333333?style=for-the-badge&logo=thealgorithms&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>  
 
 ---
